@@ -1,3 +1,4 @@
+---Marcos Sanches
 ---Exemplo de como converter campos data do protheus no sql server
 SELECT 
 	CR_FILIAL, 
